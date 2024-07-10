@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Capestick
-- 👀 I Do FiveM Devolmeent
+- 👀 I Do FiveM Development
 - 🌱 I’m currently learning / CSS HTML
 - 📫 How to reach Me  -  Discord Solo_Capestick
 
