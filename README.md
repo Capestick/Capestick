@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Capestick
 - 👀 I Do FiveM Development
-- 🌱 I’m currently learning / CSS HTML
+- 🌱 I know, HTML, JS, Lua, CSS. Learning React. Mantime CSS,  
 - 📫 How to reach Me  -  Discord Solo_Capestick
 
 <!---
